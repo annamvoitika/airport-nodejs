@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1591869326602" clover="3.2.0">
+  <project timestamp="1591869326602" name="All files">
+    <metrics statements="17" coveredstatements="13" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="6" elements="27" coveredelements="21" complexity="0" loc="17" ncloc="17" packages="1" files="3" classes="3"/>
+    <file name="airport.js" path="/Users/student/Projects/airport-nodejs/models/airport.js">
+      <metrics statements="13" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="8" count="104" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="103" type="stmt"/>
+      <line num="10" count="103" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="21" count="2" type="cond" truecount="0" falsecount="2"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="plane.js" path="/Users/student/Projects/airport-nodejs/models/plane.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="weather.js" path="/Users/student/Projects/airport-nodejs/models/weather.js">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
